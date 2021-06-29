@@ -1,0 +1,14 @@
+{
+  "name": "my-gridsome-site",
+  "private": true,
+  "scripts": {
+    "develop": "gridsome develop",
+    "explore": "gridsome explore",
+    "build": "gridsome build"
+  },
+  "dependencies": {
+    "ant-design-vue": "^1.7.6",
+    "axios": "^0.21.1",
+    "gridsome": "^0.7.0"
+  }
+}
